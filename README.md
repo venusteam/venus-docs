@@ -7,6 +7,11 @@ Minos 米诺斯
 
 helios 太阳
 
+Sunfire  骄阳;美国骄阳;阳火;火甲
+
+Brain 大脑
+
+
 
 
 Talos 
